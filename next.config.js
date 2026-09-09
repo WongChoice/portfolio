@@ -12,7 +12,7 @@ const nextConfig = {
 
     return config;
   },
-  basePath: '/generated_portfolio',
+  basePath: '/portfolio',
 };
 
 module.exports = nextConfig;
