@@ -1,0 +1,34 @@
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── globals.css
+│   └── robots.txt/sitemap (SEO ready)
+├── components/
+│   ├── 3d/
+│   │   ├── HeroCanvas.tsx
+│   │   ├── HeroScene.tsx
+│   │   └── AmbientShaderBg.tsx
+│   ├── navigation/
+│   │   ├── Navbar.tsx
+│   │   └── Footer.tsx
+│   ├── sections/
+│   │   ├── HeroSection.tsx
+│   │   ├── ProblemSection.tsx
+│   │   ├── ArchitectureSection.tsx
+│   │   ├── ServicesSection.tsx
+│   │   ├── ProjectsSection.tsx
+│   │   ├── TrustSection.tsx
+│   │   ├── ExperienceSection.tsx
+│   │   ├── TechStackSection.tsx
+│   │   ├── AutomationSection.tsx
+│   │   ├── BeforeAfterSection.tsx
+│   │   └── CtaSection.tsx
+│   ├── ui/
+│   │   ├── ContactModal.tsx
+│   │   ├── SystemBadge.tsx
+│   │   ├── TechPill.tsx
+│   │   └── ProjectModal.tsx
+│   └── lib/
+│       ├── data.ts
+│       └── utils.ts
+└── tailwind.config.js
