@@ -25,7 +25,7 @@ export const PROFILE = {
   tagline: "Ex-Amazon Software Engineer building production-grade AI agents and autonomous n8n workflows designed to run 24/7 without breaking.",
   rate: "$45/hr",
   availability: "Available for new projects",
-  upworkUrl: "https://www.upwork.com",
+  upworkUrl: "https://www.upwork.com/freelancers/ankitai",
   stats: {
     badge: "Top Rated",
     jobSuccess: "100%",
